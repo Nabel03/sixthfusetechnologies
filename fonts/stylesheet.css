@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Acratica';
+    src: url('Acratica-Demo.eot');
+    src: url('Acratica-Demo.eot?#iefix') format('embedded-opentype'),
+        url('Acratica-Demo.woff2') format('woff2'),
+        url('Acratica-Demo.woff') format('woff'),
+        url('Acratica-Demo.ttf') format('truetype'),
+        url('Acratica-Demo.svg#Acratica-Demo') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -1,0 +1,13 @@
+Fonts:
+Use a modern font
+
+[Montserrat family]
+
+Colors: 
+Change font colors on Nav-bar to white
+
+check out www.coolors.co
+
+[Images loading too slow]
+
+upgrade to one page site!
